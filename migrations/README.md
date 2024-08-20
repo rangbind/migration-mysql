@@ -1,4 +1,16 @@
 Purpose: to handle automatic migration when project is deployed.
+Description:
+
+Please install mysql2 module and dotenv module and put your mysql credentials in .env file...
+
+DB_USERNAME
+DB_PASSWORD
+DB_DATABASE
+DB_HOST
+
+the above details required in env file
+please make sure all the variables name spelling is correct
+
 
 Commands:
 create migration file: 
